@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{EDxQ:function(e,t,l){"use strict";l.r(t);var n=l("q1tI"),a=l.n(n),r=l("Bl7J"),c=l("vrFN");t.default=function(){return a.a.createElement(r.a,null,a.a.createElement(c.a,{title:"Most Parcels"}),a.a.createElement("p",null,"Individual land owners with the most parcels."),a.a.createElement("table",null,a.a.createElement("tr",null,a.a.createElement("td",null))))}}}]);
+//# sourceMappingURL=component---src-pages-most-parcels-individual-tsx-6ef32bdfd29c17431adf.js.map

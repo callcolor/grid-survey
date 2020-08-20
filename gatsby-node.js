@@ -5,8 +5,8 @@
  */
 
 // You can delete this file if you're not using it
-import Axios from 'axios';
-import CacheAdapter from 'axios-cache-adapter';
+const Axios = require('axios');
+const CacheAdapter = require('axios-cache-adapter');
 
 exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
     const pokemons = [
